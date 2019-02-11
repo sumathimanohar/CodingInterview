@@ -1,4 +1,4 @@
 # CodingInterview
-Practice coding interview in GOlang
+Practice coding interview in Java
 DataStructures and Algorithms
 
